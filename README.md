@@ -1,2 +1,3 @@
 # chat-socket
-Websocket with Deno
+
+Simple websocket to deploy on Deno Deploy
